@@ -280,7 +280,7 @@ Dropout을 적용한 다층 퍼셉트론(MLP) 구조를 설계하고,
 ### 부록
 - 프로젝트 수행 과정에서 작성한 탐구 보고서 내 시각화 자료 일부
 
-![범죄 대분류 혼동 행렬](images/confusion_matrix.png)
+![범죄 분류별 총 발생 건수](https://github.com/CHOMINJUN-127/Deep-Learning-Based-Crime-Risk-Prediction/commit/888f6e804c09e59fad86dad748d0457b4bb97601)
 
 
 ## 📄 라이선스
